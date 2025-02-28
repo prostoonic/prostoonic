@@ -1,4 +1,9 @@
 ## Hi there 👋
+I’m currently learning in BGAEK
+I’m looking to collaborate on big project
+
+ 
+
 
 <!--
 **prostoonic/prostoonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
