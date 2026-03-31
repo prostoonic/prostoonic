@@ -32,7 +32,7 @@
 - **TaskanaApp1** – первый спринт из 3 для сайта учета и планирования времени  
   _Стек:_ React, HTML, CSS, JavaScript, Vite  
 
-- **CyberScout** – обучающая игра-сайт для детей по кибербезопасности (конкурс КиберПраво)  
+- **CyberScout** – обучающая игра-сайт для детей по кибербезопасности (конкурс КиберПраво)  https://cyber-scout-game.vercel.app/
   _Стек:_ React/Next.js (App Router + SSR), TypeScript, SCSS, Zustand  
 
 - **SqwBio** – сайт-визитка, созданный на заказ  
