@@ -39,7 +39,10 @@
   _Стек:_ React, SCSS, TypeScript  
 
 - **Copy-as-md-extension** – скрипт для расширения Tampermonkey, позволяющий копировать ревью в формате Markdown для сайта PREAX  
-  _Стек:_ JavaScript  
+  _Стек:_ JavaScript
+  
+- **PixelPerfect** - Расширение для браузера , позволяющий накладывать макет поверх страницы.
+  _Стек:_ React,typeScript,vite,srxjs
 
 - **Exchango, Jobored, ToDoList** – учебные проекты на React (ранние проекты, использовать для демонстрации не рекомендую)  
 
