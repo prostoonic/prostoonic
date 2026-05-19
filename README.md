@@ -23,7 +23,7 @@
 - **Frontend:** React, Next.js, Vite  
 - **Языки:** JavaScript, TypeScript, HTML, CSS, SCSS  
 - **Состояние:** Zustand  
-- **Инструменты:** Git, Figma, Curcor  
+- **Инструменты:** Git, Figma, Cursor  
 
 ---
 
